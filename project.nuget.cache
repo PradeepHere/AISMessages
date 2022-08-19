@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "JYc6lik0eMvWEbZhEQTfEhePrBwRtldbn1tMeju0bxxK5pK7MuhU+2drIHx+X91S+iGSM3mNHx6TXyx0dqrd2Q==",
+  "success": true,
+  "projectFilePath": "/Users/AH03726/Downloads/Assignment/AISMessages/AisMessages.csproj",
+  "expectedPackageFiles": [
+    "/Users/AH03726/.nuget/packages/microsoft.aspnetcore.jsonpatch/6.0.8/microsoft.aspnetcore.jsonpatch.6.0.8.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/6.0.8/microsoft.aspnetcore.mvc.newtonsoftjson.6.0.8.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/npgsql/6.0.6/npgsql.6.0.6.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/AH03726/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
